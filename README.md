@@ -1,5 +1,8 @@
 # Tile images for Windows 10 - BetterStartMenu
-Tile images for use with BetterStartMenu app
+Tile images for use with BetterStartMenu app. These are just some of the apps I use on a daily basis. Feel free to add more images using the following file name format:
+
+Folder: appname /
+File : appname-size.png
 
 Feel free to use as you want.
 
