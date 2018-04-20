@@ -1,4 +1,4 @@
-# windows10tiles
+# Tile images for Windows 10 - BetterStartMenu
 Tile images for use with BetterStartMenu app
 
 Feel free to use as you want.
